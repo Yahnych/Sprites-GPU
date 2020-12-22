@@ -1,2 +1,2 @@
 # Sprites-GPU
-Here will be new render engine
+Here will be new render library
